@@ -29,8 +29,7 @@ An end-to-end EDA on a real-world motor vehicle insurance dataset (~105,000 poli
 | 11 | Average premium by vehicle age category |
 | 12 | Claims rate by vehicle age |
 | 13 | Vehicle power categories and premium impact |
-| 14 | Correlation heatmap across numerical variables |
-| 15 | Key findings summary |
+| 14 | Key findings summary |
 
 ---
 
